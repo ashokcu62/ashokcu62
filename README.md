@@ -1,8 +1,5 @@
 - 👋 Hi, I’m  ashok cu
-- came from deffrent field
--  by self taught
-- 👀 interested in  coding .
-- 🌱 I’m currently learning  react &  firebase ...
+- react and node ..
 - 💞️ I’m looking to collaborate on  .web apps ..
 - 
 - 📫 How to reach me https://www.linkedin.com/in/ashok-c-u-3aa967231 ...
